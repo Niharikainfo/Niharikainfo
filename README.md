@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Niharikainfo
+- 👋 Hi, I’m Niharika Singh
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning data science
+  
 
 
 <!---
