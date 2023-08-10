@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niharika Singh</h1>
 <h3 align="center">Passionate about analyzing data .</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/1193020-Line-Graph-gif)">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1193020-Line-Graph-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikainfo&label=Profile%20views&color=0e75b6&style=flat" alt="niharikainfo" /> </p>
 
