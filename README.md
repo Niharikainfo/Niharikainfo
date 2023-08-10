@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Niharika Singh</h1>
-<h3 align="center">Passionate about analyzing data .</h3>
+<h1 align="left">Hi 👋, I'm Niharika Singh 🎯</h1> 
+<h3 align="left">Passionate about analyzing data .📊📈</h3> 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Niharika+Singh;I+am+a+Data+Analyst;I+am+a+Business+Analyst;I+am+a+UIUX+Designer;I+am+an+entrepreneur" style="color: darkblue;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Niharika+Singh;I+am+a+Data+Analyst;I+am+a+Business+Analyst;I+am+a+PowerBI+Developer;I+am+Database+Adminstrator;I+am+a+UIUX+Designer;I+am+an+entrepreneur" style="color: darkblue;">
  </a>
 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/media/18e355ce88914a10ff30668836b1b997.gif">
