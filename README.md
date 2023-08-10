@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Analysis using SQL**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Big data**
 
 - 💬 Ask me about **SQL,Python**
 
